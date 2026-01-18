@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/2025/Day1/P1/p1/.gitignore
+/2025/Day1/P1/p1/.gitattributes
+/.gitattributes
+/.gitignore
